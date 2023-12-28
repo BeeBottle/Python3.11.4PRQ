@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SetupPrereq>
+	<properties/>
+	<files>
+		<file LocalFile="C:\Users\787j\Downloads\python-3.11.4-amd64.exe" URL="https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe" CheckSum="E4413BB7448CD13B437DFFFFBA294CA0" FileSize="0,25426160"/>
+	</files>
+	<execute file="python-3.11.4-amd64.exe"/>
+	<properties Id="{204E582F-2E2B-4D66-A63F-FCF102EE5529}" AltPrqURL="https://www.python.org/ftp/python/3.11.4/python-3.11.4-amd64.exe"/>
+</SetupPrereq>
